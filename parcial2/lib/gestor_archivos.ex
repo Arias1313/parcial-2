@@ -1,7 +1,4 @@
 defmodule GestorArchivos do
-  @doc """
-  Lee un archivo con File.stream!/1 ignorando comentarios (#) y líneas vacías.
-  """
   def stream_lineas_limpias(ruta) do
     if File.exists?(ruta) do
       stream =
@@ -15,9 +12,6 @@ defmodule GestorArchivos do
     end
   end
 
-  @doc """
-  Escribe un Stream o lista de líneas en un archivo, reemplazándolo si existe.
-  """
   def escribir_lineas(ruta, stream_o_lista) do
     archivo = File.open!(ruta, [:write, :utf8])
 
