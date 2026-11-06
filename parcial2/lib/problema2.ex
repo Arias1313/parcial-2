@@ -186,9 +186,7 @@ def ejecutar do
       end)
 
     resumen = """
-    =========================================
     RESUMEN DE ESCAPE DE LA ISLA
-    =========================================
     Total de rutas encontradas: #{total}
 
     Ruta(s) más corta(s) (#{min_movs} movimientos):
