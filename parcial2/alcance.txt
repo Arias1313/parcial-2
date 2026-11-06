@@ -1,0 +1,9 @@
+=== ALCANCE DESDE: Armenia HASTA: Manizales ===
+Paso 0: Armenia
+Paso 1: Armenia, Pereira
+Paso 2: Armenia, Manizales, Pereira
+Paso 3 (Estabilizado): Armenia, Manizales, Pereira
+=== ALCANCE DESDE: Pereira HASTA: Bogota ===
+Paso 0: Pereira
+Paso 1: Armenia, Manizales, Pereira
+Paso 2 (Estabilizado): Armenia, Manizales, Pereira

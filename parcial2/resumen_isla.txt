@@ -1,0 +1,18 @@
+=========================================
+RESUMEN DE ESCAPE DE LA ISLA
+=========================================
+Total de rutas encontradas: 724
+
+Ruta(s) más corta(s) (2 movimientos):
+  - Recorrido: (2,2)->(3,2)->(3,3)
+  - Recorrido: (2,2)->(2,3)->(3,3)
+
+Ruta de menor costo (Costo: 2.0):
+  - Recorrido: (2,2)->(3,2)->(3,3)
+
+Mapa con la ruta de menor costo marcada con (*):
+~ ~ ~ ~ ~
+~ A A A ~
+~ A P A ~
+~ M * B ~
+~ ~ ~ ~ ~
