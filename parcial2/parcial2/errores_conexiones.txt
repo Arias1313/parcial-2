@@ -1,1 +1,0 @@
-Línea 4: 'Armenia, Bogota, X' -> Distancia no numérica

@@ -1,1 +1,0 @@
-Conexión de la ciudad 'Armenia' consigo misma descartada (%Conexion{origen: Armenia, destino: Armenia}).
