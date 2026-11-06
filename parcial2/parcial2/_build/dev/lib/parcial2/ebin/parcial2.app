@@ -1,0 +1,1 @@
+{application,parcial2,[{modules,['Elixir.Conexion','Elixir.GestorArchivos','Elixir.Parcial2','Elixir.Problema1','Elixir.Problema2','Elixir.Ruta','Elixir.RutaIsla','Elixir.Terreno','Elixir.Util']},{optional_applications,[]},{applications,[kernel,stdlib,elixir,logger]},{description,"parcial2"},{registered,[]},{vsn,"0.1.0"}]}.
